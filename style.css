@@ -19,6 +19,7 @@ html {
     --primary-2: #e57373;
     --secondary: #fff9e3;
     --white: #fefefe;
+    --dark-grey: #111;
     --grey: #333;
     --light-grey: #666;
 }
@@ -27,4 +28,37 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.container {
+    background-color: var(--secondary);
+    margin: 3.5rem;
+    box-shadow: 0 1rem 3rem var(--grey);
+}
+
+.header {
+    width: 100%;
+    height: calc(100vh - 7rem);
+    background: linear-gradient(
+        rgba(211, 47, 47, 0.5),
+        rgba(211, 47, 47, 0.3)),
+        url(images/header-bg.jpg) center no-repeat;
+    background-size: cover;
+}
+
+.header-text {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+.heading {
+    font-size: 8rem;
+    color: var(--white);
+}
+
+.header-paragraph {
+    font-size: 3rem;
+    font-weight: 500;
+    color: var(--secondary);
 }
