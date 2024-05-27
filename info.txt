@@ -1,0 +1,41 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Monsieur+La+Doulaise&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Monsieur+La+Doulaise&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+</style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+London, England: Starting and ending point of his journey, home to the iconic Big Ben and the Tower of London.
+Suez, Egypt: Gateway to the Red Sea, near the famous Suez Canal.
+
+Mumbai
+Mumbai
+Bombay (Mumbai), India: A bustling city with attractions like the Gateway of India and Elephanta Caves.
+
+Kolkata
+Kolkata
+Calcutta (Kolkata), India: Known for its colonial architecture, cultural festivals, and the Victoria Memorial.
+
+Hong Kong
+Hong Kong
+Hong Kong: A vibrant metropolis famous for its skyline, shopping, and Victoria Peak.
+
+Yokohama
+Yokohama
+Yokohama, Japan: A city known for its beautiful Sankeien Garden and the historic Yokohama Marine Tower.
+San Francisco, USA: Famous for the Golden Gate Bridge, Alcatraz Island, and its historic cable cars.
+New York City, USA: The city that never sleeps, with landmarks like the Statue of Liberty and Central Park.
+
+Liverpool
+Liverpool
+Liverpool, England: Known for its maritime history, The Beatles, and the Royal Albert Dock.
+
+Dublin
+Dublin
+Dublin, Ireland: Although not directly on Fogg’s route, it’s close to his path and offers attractions like the Guinness Storehouse and Dublin Castle.
+
+
+<link rel="icon" type="image/png" href="images/icon.png">
